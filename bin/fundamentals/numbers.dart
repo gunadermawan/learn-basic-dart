@@ -8,7 +8,7 @@ int weight = 20;
 var width = 12.2;
 double height = 145.3;
 
-// parse number
+// parse number to another value
 
 //  string -> int
 var one = int.parse('1');
